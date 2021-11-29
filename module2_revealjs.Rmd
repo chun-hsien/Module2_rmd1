@@ -5,7 +5,7 @@ date: "February 7, 2020"
 output: 
   revealjs::revealjs_presentation:
     transition: zoom
-    theme: solarized
+    theme: solarize
     highlight: kate
     center: true
 ---
